@@ -7,10 +7,10 @@
 -->
 
 
-- 🔭 I’m currently finishing my final year of B.Tech
-- 🌱 I’m currently learning React and Kotlin
-- 👯 I’m looking to collaborate on Mobile and Web applications
-- 🤔 I’m looking for internships and opportunities to learn and grow
+- 🔭 I’m currently working as a Data Engineer
+- 🌱 I’m well versed in Python, SQL using libraries like Spark to solve real world data problems
+- 👯 My side interest in full stack development.
+- 🤔 I’m looking for  opportunities to learn and grow
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy making video edits in my freetime.
 
