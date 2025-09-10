@@ -10,9 +10,9 @@
 - 🔭 I’m currently working as a Data Engineer
 - 🌱 I’m well versed in Python, SQL using libraries like Spark to solve real world data problems
 - 👯 My side interest in full stack development.
-- 🤔 I’m looking for  opportunities to learn and grow
+- 🤔 I’m looking for  opportunities in the realm of data
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy making video edits in my freetime.
+- ⚡ Fun fact: I enjoy competitive coding in my freetime.
 
 
 ## ✉️ Find me on:
