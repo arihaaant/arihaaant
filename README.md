@@ -1,45 +1,40 @@
-### Hi there 👋 I am Arihant!
+Hi there 👋 I'm Arihant!
 
-<!--
-**arihaaant/arihaaant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master’s student in Data Science at UW–Madison, currently sharpening my skills in statistical modeling, machine learning, and large-scale data systems. Before grad school, I worked as a Data Engineer, building ETL pipelines and solving real-world data problems — experience that still shapes how I think about problems today.
 
+I'm in the process of adding some of my recent projects to GitHub, so this space is growing!
 
--->
+🚀 What I'm Working On
 
+Expanding my portfolio with projects in ML, data engineering, and full-stack + AI.
 
-- 🔭 I’m currently working as a Data Engineer
-- 🌱 I’m well versed in Python, SQL using libraries like Spark to solve real world data problems
-- 👯 My side interest in full stack development.
-- 🤔 I’m looking for  opportunities in the realm of data
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy competitive coding in my freetime.
+Exploring real-world applications of LLMs, vector search, and end-to-end data pipelines.
 
+Learning and experimenting with tools across the full data lifecycle — from ingestion to modeling to deployment.
 
-## ✉️ Find me on:
+🔧 Skills & Interests
 
+Data Engineering: Python, SQL, Spark, cloud pipelines, ETL design
 
-<p align="center">
- <a href="https://www.linkedin.com/in/arihant-jha/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:arihant.akul@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+Machine Learning & Modeling: supervised/unsupervised methods, statistical modeling, experimentation
 
-<br />
+Full-stack (side interest): React, Node.js, building small tools and prototypes
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Pro" height="40" style="vertical-align:top; margin:4px">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="After Effects" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-</p>
+Other interests: learning languages, tinkering with projects, and exploring anything that sparks curiosity
+
+🎯 What I'm Looking For
+
+I'm currently seeking Summer/Fall 2026 internships in:
+
+Data Engineering
+
+Data Science
+
+Machine Learning / AI Development
+
+If you're working on something exciting in these spaces, I'd love to connect!
+
+✉️ Find Me Online
+<p align="left"> <a href="https://www.linkedin.com/in/arihant-jha/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30"> </a> <a href="mailto:arihant.akul@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30"> </a> </p>
+🧰 Languages & Tools
+<p align="left"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/apache-spark/apache-spark.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" height="40"> </p>
