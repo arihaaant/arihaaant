@@ -1,40 +1,79 @@
-Hi there 👋 I'm Arihant!
+<div align="center">
 
-I'm a Master’s student in Data Science at UW–Madison, currently sharpening my skills in statistical modeling, machine learning, and large-scale data systems. Before grad school, I worked as a Data Engineer, building ETL pipelines and solving real-world data problems — experience that still shapes how I think about problems today.
+# Arihant Jha
 
-I'm in the process of adding some of my recent projects to GitHub, so this space is growing!
+**Data Engineer → MS Data Science @ UW–Madison**
 
-🚀 What I'm Working On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arihant--jha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arihant-jha/)
+[![Email](https://img.shields.io/badge/Email-arihant.jha1999%40outlook.com-EA4335?style=flat-square&logo=gmail)](mailto:arihant.jha1999@outlook.com)
+[![Location](https://img.shields.io/badge/Madison%2C%20WI-University%20of%20Wisconsin-c5050c?style=flat-square)](https://www.wisc.edu/)
 
-Expanding my portfolio with projects in ML, data engineering, and full-stack + AI.
+</div>
 
-Exploring real-world applications of LLMs, vector search, and end-to-end data pipelines.
+---
 
-Learning and experimenting with tools across the full data lifecycle — from ingestion to modeling to deployment.
+## About Me
 
-🔧 Skills & Interests
+I'm a Data Engineer turned grad student, currently pursuing my **MS in Data Science at UW–Madison** (GPA: 4.0). Before this, I spent 3 years at **Bajaj Finserv** — India's largest NBFC — building ML pipelines, RAG systems, and large-scale ETL infrastructure that touched real business outcomes.
 
-Data Engineering: Python, SQL, Spark, cloud pipelines, ETL design
+I care about building systems that are not just technically sound but actually useful: pipelines that run reliably, models that get used, and dashboards that inform decisions.
 
-Machine Learning & Modeling: supervised/unsupervised methods, statistical modeling, experimentation
+🎯 **Actively seeking Summer/Fall 2026 internships** in Data Engineering · Data Science · ML/AI
 
-Full-stack (side interest): React, Node.js, building small tools and prototypes
+---
 
-Other interests: learning languages, tinkering with projects, and exploring anything that sparks curiosity
+## Experience Highlights
 
-🎯 What I'm Looking For
+**Senior Data Engineer — Bajaj Finserv** *(Aug 2024 – Jun 2025)*
+- Built a risk-scoring ML pipeline over 100k+ customer profiles → reduced default risk by **5%**
+- Delivered a RAG-based policy assistant (LangChain + Azure OpenAI) over **200k+ documents**
+- Built an agentic data quality monitor using LangChain Agents + Great Expectations → reduced MTTD on pipeline anomalies
 
-I'm currently seeking Summer/Fall 2026 internships in:
+**Data Engineer — Bajaj Finserv** *(Jul 2022 – Jul 2024)*
+- Revamped AWS Glue (PySpark) ETL pipelines → **25% cost reduction, 33% faster runtime**
+- Built real-time lead re-engagement pipeline (Event Hubs + Stream Analytics) → **+4% form completions**
+- Managed analytics pipelines on **1B+ rows** across Azure Synapse and Data Lake
 
-Data Engineering
+**Research Intern — Nokia Bell Labs** *(Jul – Nov 2021)*
+- ML-based sensor fusion for pose estimation in autonomous systems
 
-Data Science
+---
 
-Machine Learning / AI Development
+## Technical Stack
 
-If you're working on something exciting in these spaces, I'd love to connect!
+**Languages**
+`Python` `SQL (T-SQL · PostgreSQL)` `R` `C#` `Java` `C++` `DAX`
 
-✉️ Find Me Online
-<p align="left"> <a href="https://www.linkedin.com/in/arihant-jha/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30"> </a> <a href="mailto:arihant.akul@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30"> </a> </p>
-🧰 Languages & Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/apache-spark/apache-spark.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" height="40"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" height="40"> </p>
+**Data Engineering**
+`Azure Data Factory` `Databricks` `Apache Spark (PySpark)` `Apache Kafka` `Azure Synapse` `Stream Analytics` `Apache Airflow` `AWS Glue` `Amazon S3`
+
+**ML & AI**
+`PyTorch` `TensorFlow` `scikit-learn` `LangChain` `Azure OpenAI` `RAG` `LangChain Agents` `Great Expectations`
+
+**Databases & Storage**
+`PostgreSQL` `Cosmos DB` `MongoDB` `Azure Data Lake` `Azure Blob Storage`
+
+**Visualization & DevOps**
+`Power BI` `Tableau` `Docker` `Kubernetes` `GitHub Actions (CI/CD)` `FastAPI`
+
+**Certifications**
+🏅 Microsoft Certified: Azure Data Engineer Associate (DP-203)
+
+---
+
+## Education
+
+🎓 **MS Data Science** — University of Wisconsin–Madison *(Sep 2025 – May 2027)*
+> Statistical Models · Methods for Data Science · Database Design & Implementation · GPA: 4.0
+
+🎓 **B.Tech Electronics & Communication** — Manipal Institute of Technology *(2018 – 2022)*
+> Minor in Data Science · Algorithms · ML · Linear Algebra · GPA: 3.43
+
+---
+
+<div align="center">
+
+*Open to collaboration, conversations, and interesting problems.*
+**[Let's connect →](https://www.linkedin.com/in/arihant-jha/)**
+
+</div>
