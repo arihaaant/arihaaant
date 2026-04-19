@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Data Engineer turned grad student, currently pursuing my **MS in Data Science at UW–Madison** (GPA: 4.0). Before this, I spent 3 years at **Bajaj Finserv** — India's largest NBFC — building ML pipelines, RAG systems, and large-scale ETL infrastructure that touched real business outcomes.
+I'm a Data Engineer turned grad student, currently pursuing my **MS in Data Science at UW–Madison** (GPA: 4.0). Before this, I spent 3 years at **Bajaj Finserv** — India's largest NBFC building ML pipelines, RAG systems, and large-scale ETL infrastructure that touched real business outcomes.
 
 I care about building systems that are not just technically sound but actually useful: pipelines that run reliably, models that get used, and dashboards that inform decisions.
 
